@@ -1,9 +1,7 @@
-## Load tests for two endpoints in Jmeter
+## Load tests for three endpoints in Jmeter
 
-### Нагрузка по трем запросам
+#### Authorization
 
-#### Авторизация
+#### Making a car
 
-#### Создание автомобиля
-
-#### Создание водителя
+#### Creating a driver
